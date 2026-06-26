@@ -6,20 +6,20 @@
   <p><strong>A modern, high-performance automation suite for advanced users.</strong></p>
 </div>
 
-## 📖 Overview
-**Macro** is a feature-rich automation application designed for gamers and power users who need precision click and key-spam control. With a physics-enabled interface and a dark-themed, minimalist aesthetic, it provides full control over input simulation.
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/book-open.svg" width="24" height="24" align="center" /> Overview
+Macro macro is a full-featured automation application built for hardcore gamers and power users. Whether you require exact click accuracy, key-spam capabilities, or a simple to access dark themed, minimalistically beautiful, physics driven interface you have got Macro to deliver!
 
-## ✨ Features
-* **Customizable Modes**: Choose between `Toggle` and `Hold` activation.
-* **Macro Types**: Supports *Left Click + E*, *Click Only*, *E Only*, and *Custom Key* spam.
-* **Advanced Control**: 
-    * **Turbo Mode**: Push your CPS to the limits.
-    * **Randomization**: Add human-like behavior with adjustable variance.
-    * **Manual Delay**: Set precise millisecond intervals for specific tasks.
-* **Physics-Based UI**: A smooth, draggable interface that responds to user movement.
-* **Persistence**: Settings are automatically saved via local configuration files.
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/sparkles.svg" width="24" height="24" align="center" /> Features
+* Modes - Toggle / Hold: Press to start the macro and press again to stop it, or click and hold the button to activate the macro while holding and release it to stop it.
+* Macro Type - LeftClick+E / Click Only / E Only / Custom Key: Define whether to click Left+E, E only, Click only or set your own macro with a custom key press.
+* Advanced Features - Turbo Mode / Randomization / Manual Delay:
+* Turbo mode: Activate extreme CPS.
+* Randomization: Make the automation act more "human" by adding some small random delay variance to each macro activation.
+* Manual delay: Set the delay between each activation up to a desired amount in miliseconds.
+* Physics-Based UI: A flexible and responsive UI that you can drag around your screen just like any other window.
+* Persistence: Your configurations are saved locally on your pc so you don't have to set everything up every time.
 
-## 🚀 Installation
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/rocket.svg" width="24" height="24" align="center" /> Installation
 
 1. **Clone the repository:**
    ```bash
