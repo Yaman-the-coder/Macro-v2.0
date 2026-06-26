@@ -8,7 +8,16 @@
 
 ---
 
-<img width="517" height="741" alt="image" src="https://github.com/user-attachments/assets/81bb3453-eef6-45cf-8a0b-d48eecfad905" /> <img width="515" height="701" alt="image" src="https://github.com/user-attachments/assets/30ed3058-98a4-4899-9024-910e11ce01ea" />
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/81bb3453-eef6-45cf-8a0b-d48eecfad905" alt="Ekran Görüntüsü 1" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github.com/user-attachments/assets/30ed3058-98a4-4899-9024-910e11ce01ea" alt="Ekran Görüntüsü 2" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ---
