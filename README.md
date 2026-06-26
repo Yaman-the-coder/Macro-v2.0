@@ -6,6 +6,12 @@
   <p><strong>A modern, high-performance automation suite for advanced users.</strong></p>
 </div>
 
+---
+
+<img width="517" height="741" alt="image" src="https://github.com/user-attachments/assets/81bb3453-eef6-45cf-8a0b-d48eecfad905" />
+
+---
+
 ## <img src="https://cdn.jsdelivr.net/npm/lucide-static/icons/book-open.svg" width="24" height="24" align="center" /> Overview
 Macro macro is a full-featured automation application built for hardcore gamers and power users. Whether you require exact click accuracy, key-spam capabilities, or a simple to access dark themed, minimalistically beautiful, physics driven interface you have got Macro to deliver!
 
